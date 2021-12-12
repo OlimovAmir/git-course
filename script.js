@@ -8,3 +8,4 @@ const resultSum = sum.reduce((previous, current) =>{
 console.log(resultSum);
 
 console.log('test')
+console.log('test2')
