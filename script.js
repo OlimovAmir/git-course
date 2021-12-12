@@ -6,3 +6,5 @@ const resultSum = sum.reduce((previous, current) =>{
     return  previous + current
     },0);
 console.log(resultSum);
+
+console.log('test')
