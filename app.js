@@ -1,4 +1,6 @@
-const summ = [1, 2, 3 , 5];
+const sum = [1, 2, 3, 5];
 
-const resultSumm = summ.reduce((previous, current) => previous+current,0);
-console.log(resultSumm);
+const resultSum = sum.reduce((previous, current) =>{
+    return  previous + current
+    },0);
+console.log(resultSum);
